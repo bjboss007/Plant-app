@@ -25,10 +25,7 @@ class FeaturedPlants extends StatelessWidget {
             imageUrl: "assets/images/bottom_img_1.png",
             press: (){},
           ),
-          FeaturedPlantCard(
-            imageUrl: "assets/images/bottom_img_2.png",
-            press: (){},
-          ),
+        
         ],
       ),
     );
